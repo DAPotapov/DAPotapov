@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+My name is Denis Potapov and currently I'm on my way to become software developer.
+
+I'm open to collaboration of any kind. Feel free to contact me.
+
+
 <!--
 **DAPotapov/DAPotapov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
